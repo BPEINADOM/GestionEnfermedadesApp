@@ -1,8 +1,12 @@
 # App de Gestión de Enfermedades (Kodular)
 
-Proyecto de aplicacion mediante TinyDB y gestión de usuarios.
+Proyecto de aplicacion con gestion de enfermedades y de usuarios.
 
 ## 📁 Contenido del Repositorio
+- Corte 1: KODULAR con Persistencia en el Dispositivo.
+- Corte 2: KODULAR con persistencia en API Rest Online.
+
+Cada uno contiene:
 * **Proyecto.aia**: Archivo fuente para importar en Kodular.
 * **App.apk**: Archivo instalable para dispositivos Android.
 
